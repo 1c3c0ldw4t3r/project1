@@ -1,0 +1,20 @@
+.gallery { 
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.gallery div { 
+    border: 1px solid red;
+}
+img { 
+    width: 10%;
+}
+
+.gallery div {
+    flex: 25%;
+}
+
+.news {
+    display: flex;
+    margin-bottom: 60px;
+}
