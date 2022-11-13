@@ -1,4 +1,9 @@
 * {
+  
+}
+
+
+{
   box-sizing: border-box;
 }
 
@@ -11,4 +16,14 @@
   flex: 33.33%;
   padding: 5px;
   
+ 
 }
+
+.box {
+  display:flex;
+  justify-content: end;
+  font-size: 60px;
+}
+
+a { text-decoration: none; }
+
