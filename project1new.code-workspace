@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"path": "."
+		},
+		{
+			"name": "1c3c0ldw4t3r.github.io",
+			"path": "../1c3c0ldw4t3r.github.io"
+		},
+		{
+			"name": "project2",
+			"path": "../project2"
+		},
+		{
+			"name": "svg ",
+			"path": "../svg "
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project2"
+	}
+}
