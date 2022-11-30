@@ -15,6 +15,9 @@
 		{
 			"name": "svg ",
 			"path": "../svg "
+		},
+		{
+			"path": "FrancesMay"
 		}
 	],
 	"settings": {
